@@ -199,6 +199,7 @@
     <Compile Include="App_Start\Startup.Auth.cs" />
     <Compile Include="BlogDatabase.cs" />
     <Compile Include="Controllers\AccountController.cs" />
+    <Compile Include="Controllers\CookieDemoController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\BlogController.cs" />
     <Compile Include="Controllers\ManageController.cs" />
@@ -276,6 +277,7 @@
     <Content Include="Views\Home\Save.cshtml" />
     <Content Include="Views\Home\Show.cshtml" />
     <Content Include="Views\Home\Add.cshtml" />
+    <Content Include="Views\CookieDemo\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
